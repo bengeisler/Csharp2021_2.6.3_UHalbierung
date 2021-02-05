@@ -1,0 +1,9 @@
+C:\Users\b\source\repos\UHalbierung\UHalbierung\bin\Debug\UHalbierung.exe.config
+C:\Users\b\source\repos\UHalbierung\UHalbierung\bin\Debug\UHalbierung.exe
+C:\Users\b\source\repos\UHalbierung\UHalbierung\bin\Debug\UHalbierung.pdb
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.Form1.resources
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.Properties.Resources.resources
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.csproj.GenerateResource.cache
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.exe
+C:\Users\b\source\repos\UHalbierung\UHalbierung\obj\Debug\UHalbierung.pdb
